@@ -1,0 +1,18 @@
+10-17-23
+have tried using 7/8th in rods and 3/4in rods which resulted in too heavy and too light. New plan is to do a hyrbid setup.
+Plan is to use 2 7/8th inch steel rods and 2 3/4 inch steel rods
+
+
+
+
+
+
+*dummy payload mass based around using four 20mm diameter steel threaded rods with abs 3d printed endcaps.
+	four 8mm holes have also been added for payload integration
+
+
+weight calculation:
+	 4 rods * 7.84 g/cm3 * pi * (2cm/2)^2* 30cm
+	+16 hexnuts * 64.4
+
+	= 3.984kg

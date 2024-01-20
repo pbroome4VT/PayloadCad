@@ -1,0 +1,30 @@
+-----------------------------------------------------
+Standards in this cad design
+
+pla-pla clearences: 0.2mm
+pla-metal clearences: 1mm
+pla hole- shaft clearneces: 1mm
+
+---------------------------------------------------
+Crude weight estimates
+
+
+12 batteries * 50g/bat = 600g
+4 rods * 7.84g/cm3 * 30cm * pi * (1.6cm/2)^2 = 1890g
+16 x M16 hexnuts =  16 * 33.3g = 532g
+beaglebone = 37g 
+rfd = 14.5g 
+pla weight = ?
+
+total =~ 3000g + pla weight
+
+from here we can add deadweigt
+
+put deadweight and battereies on oppposite sides so cubesat COM is roughly centered
+
+
+--------------------------------------
+Random other notes
+
+Beaglebone + cape is going to need about x cm
+ 
